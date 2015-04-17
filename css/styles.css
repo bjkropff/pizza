@@ -4,5 +4,12 @@ h1{
 
 .jumbotron{
     background-image: url('../img/pizza.jpg') no-repeat center center !important;
-
 }
+
+.row {
+  text-align: center;
+}
+
+/*.cost {
+  display: none
+}*/

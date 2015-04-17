@@ -16,17 +16,25 @@
     </div>
       <div class="container">
         <hr/>
-        <form id="order">
-          <div class="form-group">
-            <select  class="form-group">
-            <option value="0">Cheese</option>
-            <option value="1">Pepperoni</option>
-            </select>
-            <button type="sumbit" class="btn btn-success btn-md">
-              <span class="glyphicon glyphicon-hand-up"></span>Order Now
-            </button>
+        <div class="row">
+          <div class="col-md-8">
+            <h2>Pick Your Topping</h2>
+            <form id="order">
+              <div class="form-group">
+                <select id="choice" class="form-group">
+                  <option></option>
+                  <option value=0> Cheese</option>
+                  <option value=1>Pepperoni</option>
+                </select>
+              </div>
+              <button type="sumbit" class="btn btn-success btn-md">
+                <span class="glyphicon glyphicon-hand-up"></span>Order Now
+              </button>
+
+              <h2><span id="cost"></span></h2>
+            </form>
           </div>
-        </form>
+        </div>
       </div>
     </div>
   </body>
