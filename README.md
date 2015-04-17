@@ -9,6 +9,7 @@ This web app pizza company where a user can go to order a pizza. There, a user c
 2. Start the web app by loading triangle.html in your browser
 
 #### Copyright © 2015, Brian Kropff
+All images labeled for reuse
 
 #### License: [MIT](https://github.com/twbs/bootstrap/blob/master/LICENSE)
 

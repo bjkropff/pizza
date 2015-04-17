@@ -5,3 +5,8 @@ var pizza = {
   }
 
 };
+
+$(document).ready(function() {
+
+
+});
