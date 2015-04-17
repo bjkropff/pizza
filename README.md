@@ -1,34 +1,22 @@
-# Name:
-# Date:
+# Pizza Shop for Epicodus
+## by Brian Kropff
+### Date: April 17, 2015
+#### Description
+This web app pizza company where a user can go to order a pizza. There, a user can choose between pepperoni or cheese. The cost of a pizza depending on whether it is cheese or pepperoni.
 
-Description:
+#### Setup instructions
+1. Clone this git repository
+2. Start the web app by loading triangle.html in your browser
 
-# SetUp and Use
-In order to use this program you will need a browser...NOT IE!
+#### Copyright © 2015, Brian Kropff
 
-SetUp
-1.
+#### License: [MIT](https://github.com/twbs/bootstrap/blob/master/LICENSE)
 
-# Copyright (c) 2015 (Name)
-
-# The MIT License (MIT)
-
-# PERMISSION*
-Permission is hereby granted, free of charge, to any person obtaining a copy of
-this software and associated documentation files (the "Software"), to deal in
-the Software without restriction, including without limitation the rights to
-use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies
-of the Software, and to permit persons to whom the Software is furnished to
-do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
- copies or substantial portions of the Software.
-
-# LICENSING*
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
- IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
-DEALINGS IN THE SOFTWARE.
+#### Technologies used
+- HTML5
+- CSS3
+- JavaScript
+- JQuery ver 1.11.2
+- Bootstrap ver 3.3.1
+- mochaJS ver 2.2.1
+- chaiJS ver 2.2.0
